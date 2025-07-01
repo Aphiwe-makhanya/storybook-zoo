@@ -4,7 +4,7 @@ A fun, interactive digital zoo that flips like a storybook.
 Built with **HTML, CSS, JavaScript** — designed for smooth transitions and a beautiful experience.
 
 🌍 **Live demo:**  
-[https://aphima-khanya.github.io/storybook-zoo](https://aphimakhanya.github.io/storybook-zoo)
+[https://aphiwe-makhanya.github.io/storybook-zoo](https://aphimakhanya.github.io/storybook-zoo)
 
 ## 🚀 Features
 - Explore animals with interesting facts and locations.
